@@ -1,0 +1,30 @@
+---
+startPose:
+  x: 0.0
+  y: 48.0
+  heading: 0.0
+steps:
+- pose:
+    x: 22.0
+    y: 0.0
+    heading: 4.71238898038469
+  interpolationType: "TANGENT"
+- pose:
+    x: 0.0
+    y: -48.0
+    heading: 3.141592653589793
+  interpolationType: "CONSTANT"
+- pose:
+    x: -22.0
+    y: 0.0
+    heading: 1.5707963267948966
+  heading: 1.5707963267948966
+  interpolationType: "SPLINE"
+- pose:
+    x: 0.0
+    y: 48.0
+    heading: 0.017453292519943295
+  heading: 3.141592653589793
+  interpolationType: "SPLINE"
+resolution: 0.25
+version: 2

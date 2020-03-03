@@ -1,0 +1,37 @@
+
+//Quarry
+//Lv1:
+//Move sideways 9 inches
+
+//Lv2:
+//
+
+//Lv3:
+//Curve claw forward
+//Extend claw
+//Move forward x meters
+//Scan for Skystone
+//Claw Skystone
+//Lift claw 0.4 with servo
+//Drive back 5 inches for clearance
+//Drive x inches towards skybridge
+//Extend claw
+//Curve claw forward
+//Drive back to line
+
+Lv4:
+//
+
+//Foundation
+//Lv1:
+//Move sideways 9 inches
+
+//Lv2:
+//Bring extrusions up x inches to be above the Foundation
+//Move x inches forward
+//Drop extrusions
+//Pull 40.5 inches in (40 to maximize clearance + 0.5 in more for good measure)
+//Bring extrusions up x inches to be above the Foundation
+//Drive 20 inches towards skybridge
+//Drop down elevator
+//Drive x inches towards skybridge

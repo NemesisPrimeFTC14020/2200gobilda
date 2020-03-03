@@ -1,0 +1,43 @@
+
+//Quarry
+//Lv1:
+//Move sideways 9 inches
+
+//Lv2:
+//Do whatever we do
+
+//Lv3:
+TESTING:
+- Find formula for distance
+//Scan for Skystones
+//Ensure skystone is detected 100% of the time (ideally within 1s)
+//----- stop here and test
+//Calculate path to skystone once
+//Run along path
+//--- stop here and test
+//Run correction on path to skystone
+//----- stop here and test
+//Collect skystone
+//Drive back
+//Drive to other side of field
+//Drop
+
+//Lv4:
+
+
+//Foundation
+//Lv1:
+//Move sideways 9 inches
+
+//Lv2:
+//Bring extrusions up x inches to be above the Foundation
+//Move x inches forward
+//Drop extrusions
+//Pull 40.5 inches in (40 to maximize clearance + 0.5 in more for good measure)
+//Bring extrusions up x inches to be above the Foundation
+//Drive 20 inches towards skybridge
+//Drop down elevator
+//Drive x inches towards skybridge
+
+Lv3:
+//
